@@ -45,7 +45,7 @@ export default function Home() {
             </h1>
             <Image src={Creation} alt="sample" width={250} height={250} />
             <h1 className="text-4xl font-bold w-full text-left text-white">
-              Find your Community{" "}
+              Build your Community{" "}
             </h1>
           </div>
           <div className="bg-white/10 backdrop-blur-md w-1/2 rounded-xl flex flex-col gap-y-4 items-center justify-center p-4">
